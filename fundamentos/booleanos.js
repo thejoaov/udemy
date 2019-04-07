@@ -27,4 +27,3 @@ console.log(!!('' || null || 0 || ' '))
 
 let nome = ''
 console.log(nome || 'Desconhecido')
-

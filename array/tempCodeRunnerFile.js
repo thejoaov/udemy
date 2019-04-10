@@ -1,1 +1,1 @@
-.map(triplo)
+true

@@ -1,1 +1,1 @@
-true
+(total, atual) => total + atual

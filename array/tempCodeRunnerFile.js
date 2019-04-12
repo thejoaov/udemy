@@ -1,1 +1,0 @@
-(total, atual) => total + atual

@@ -1,0 +1,19 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "legal",
+  "main": "outro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "12312",
+    "5efds",
+    "21312454"
+  ],
+  "author": "thejoaov",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.17.1"
+  }
+}
